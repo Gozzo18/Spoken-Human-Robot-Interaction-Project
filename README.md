@@ -7,7 +7,8 @@ Human Robot Interaction (HRI) is the field of study dedicated to understanding, 
 - Automatic Speech Recognition 
 - Morpho-syntactic analysis 
 - Semantic analysis 
-  The particular type of task-oriented sds that we realized is an agent that plays as a waiter in a restaurant. It has to be able to interact with customers by asking for their orders, request confirmations and keep track of everything that has been ordered. 
+ 
+The particular type of task-oriented sds that we realized is an agent that plays as a waiter in a restaurant. It has to be able to interact with customers by asking for their orders, request confirmations and keep track of everything that has been ordered. 
 
 # AUTOMATIC SPEECH RECOGNITION 
 The automatic speech recognition (ASR) is that process that allows to generates text starting from an audio signal. The are lots of different problems that the system must deal with: 
